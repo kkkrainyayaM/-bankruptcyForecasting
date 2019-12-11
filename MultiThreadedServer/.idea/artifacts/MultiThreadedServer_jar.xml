@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="MultiThreadedServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiThreadedServer</output-path>
+    <root id="root">
+      <element id="archive" name="MultiThreadedServer.jar">
+        <element id="module-output" name="MultiThreadedServer" />
+      </element>
+      <element id="library" level="project" name="commons-logging-1.1.2" />
+      <element id="library" level="project" name="java-json" />
+      <element id="library" level="project" name="pdfbox-2.0.17" />
+      <element id="library" level="project" name="fontbox-2.0.17" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.18" />
+      <element id="library" level="project" name="pdfbox-debugger-2.0.17" />
+    </root>
+  </artifact>
+</component>
